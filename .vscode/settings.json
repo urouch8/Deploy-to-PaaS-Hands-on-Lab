@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/06d47cb1-2af9-4220-b3be-e60e82bdb01e/AppServices/subscriptions/06d47cb1-2af9-4220-b3be-e60e82bdb01e/resourceGroups/rg-User02/providers/Microsoft.Web/sites/ura-k20221214",
+    "appService.deploySubpath": "src\\CS\\bin\\Publish"
+}
